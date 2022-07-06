@@ -28,8 +28,9 @@ body {
 }
 
 .button-items {
-    display: block;
+    display: inline-block;
     text-align: center;
+    margin: 20px;
 }
 
 #button-1 {
@@ -91,4 +92,45 @@ body {
 section hr {
     border: 2px solid rgb(177, 170, 170);
     width: 50%;
+
+}
+
+.link {
+    padding-top: 50px;
+}
+
+.third-banner {
+    text-align: center;
+    padding-top: 80px;
+}
+
+.plan-item {
+    display: inline-block;
+    width: 20%;
+    padding: 40px;
+    text-align: left;
+    border-radius: 5px;
+    font-size: smaller;
+    margin: 10px;
+
+}
+
+#food-for-family {
+    background-color: rgb(221, 238, 248);
+}
+
+#shelter-for-family {
+    background-color: rgb(232, 211, 214);
+}
+
+#education-for-child {
+    background-color: rgb(230, 230, 211);
+}
+
+.light-color {
+    color: gray;
+}
+
+#plan-added {
+    padding-bottom: 20px;
 }
