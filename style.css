@@ -19,7 +19,76 @@ body {
     background-size: cover;
     background-position: center;
     padding: 150px;
+}
 
+.second-banner {
+    text-align: center;
+    color: black;
+    padding-top: 80px;
+}
 
+.button-items {
+    display: block;
+    text-align: center;
+}
 
+#button-1 {
+    font-size: 30px;
+    font-weight: 700;
+    padding: 20px;
+    border-radius: 5px;
+    color: gray;
+    background-color: rgba(242, 234, 234, 0.61);
+    border: none;
+}
+
+#button-2 {
+    font-size: 30px;
+    font-weight: 700;
+    padding: 20px;
+    border-radius: 5px;
+    color: red;
+    background-color: rgba(227, 110, 110, 0.61);
+    border-color: rgb(244, 74, 74);
+}
+
+#button-3 {
+    font-size: 30px;
+    font-weight: 700;
+    padding: 20px;
+    border-radius: 5px;
+    color: gray;
+    background-color: rgba(242, 234, 234, 0.61);
+    border: none;
+}
+
+#button-4 {
+    font-size: 30px;
+    font-weight: 700;
+    padding: 20px;
+    border-radius: 5px;
+    color: gray;
+    background-color: rgba(242, 234, 234, 0.61);
+    border: none;
+}
+
+#button-5 {
+    font-size: 30px;
+    font-weight: 700;
+    padding: 20px;
+    border-radius: 5px;
+    color: gray;
+    background-color: rgba(242, 234, 234, 0.61);
+    border: none;
+}
+
+.taka-amount {
+    color: rgb(196, 191, 191);
+    text-align: center;
+    padding-top: 40px;
+}
+
+section hr {
+    border: 2px solid rgb(177, 170, 170);
+    width: 50%;
 }
