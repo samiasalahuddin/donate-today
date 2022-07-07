@@ -123,4 +123,27 @@ section hr {
     font-size: 10px;
     font-style: normal;
 }
+
+.email-update {
+    text-align: center;
+    margin: 80px;
+}
+
+.email-input {
+    display: inline-flex;
+    background-color: lightgoldenrodyellow;
+    padding: 50px 150px;
+    margin-top: 50px;
+}
+
+#email-button {
+    background-color: lightgrey;
+    padding: 10px;
+    border: none;
+}
+
+#subscription-button {
+    background-color: rgb(223, 63, 35);
+    color: white;
+    border: none;
 }
