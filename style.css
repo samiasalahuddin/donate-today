@@ -18,7 +18,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    padding: 150px;
+    padding: 100px;
 }
 
 .second-banner {
@@ -30,10 +30,10 @@ body {
 .button-items {
     display: inline-block;
     text-align: center;
-    margin: 20px;
+    margin: 50px;
 }
 
-#button-1 {
+.button-list {
     font-size: 30px;
     font-weight: 700;
     padding: 20px;
@@ -51,36 +51,6 @@ body {
     color: red;
     background-color: rgba(227, 110, 110, 0.61);
     border-color: rgb(244, 74, 74);
-}
-
-#button-3 {
-    font-size: 30px;
-    font-weight: 700;
-    padding: 20px;
-    border-radius: 5px;
-    color: gray;
-    background-color: rgba(242, 234, 234, 0.61);
-    border: none;
-}
-
-#button-4 {
-    font-size: 30px;
-    font-weight: 700;
-    padding: 20px;
-    border-radius: 5px;
-    color: gray;
-    background-color: rgba(242, 234, 234, 0.61);
-    border: none;
-}
-
-#button-5 {
-    font-size: 30px;
-    font-weight: 700;
-    padding: 20px;
-    border-radius: 5px;
-    color: gray;
-    background-color: rgba(242, 234, 234, 0.61);
-    border: none;
 }
 
 .taka-amount {
@@ -133,4 +103,24 @@ section hr {
 
 #plan-added {
     padding-bottom: 20px;
+}
+
+.last-footer {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+#first-footer {
+    font-family: 'Dancing Script', cursive;
+    color: rgb(212, 80, 80);
+    font-size: 30px;
+}
+
+#second-footer {
+    color: white;
+    font-size: 10px;
+    font-style: normal;
+}
 }
